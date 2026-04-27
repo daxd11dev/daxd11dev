@@ -3,8 +3,8 @@
   <a href="https://t.me/daxdcommunity" target="_blank">
     <img src="./assets/daxdcommunity.png" width="100%" alt="Daxd Community">
   </a>
-  <a href="https://daxd11dev.github.io/thermalVoid/" target="_blank">
-    <img src="./assets/void.png" width="100%" alt="Void Banner">
+  <a href="https://daxd11dev.github.io/Thermal_Void/" target="_blank">
+    <img src="./assets/thermalvoid.png" width="100%" alt="Void Banner">
   </a>
 </p>
 
