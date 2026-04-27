@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/welcome.png" width="100%" alt="Welcome Banner">
+  <img src="./assets/hiphup.png" width="100%" alt="Welcome Banner">
   <a href="https://t.me/daxdcommunity" target="_blank">
     <img src="./assets/daxdcommunity.png" width="100%" alt="Daxd Community">
   </a>
