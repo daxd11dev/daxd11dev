@@ -1,16 +1,20 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/wellcome.png" width="100%" alt="Welcome Banner">
+  <a href="https://t.me/daxdcommunity" target="_blank">
+    <img src="./assets/daxdcommunity.png" width="100%" alt="Daxd Community">
+  </a>
+  <a href="https://daxd11dev.github.io/Thermal_Void/" target="_blank">
+    <img src="./assets/void.png" width="100%" alt="Void Banner">
+  </a>
+</p>
 
-<!--
-**daxd11dev/daxd11dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://t.me/daxd11" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Find%20me%20on%20Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://saweria.co/daxddev" target="_blank">
+    <img src="https://img.shields.io/badge/Saweria-Buy%20me%20a%20coffee-faae2b?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Saweria">
+  </a>
+</p>
